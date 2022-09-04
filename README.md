@@ -1,5 +1,6 @@
-ECE 568 Final Project
+Mini-Amazon
 ===
+This is the final project for duke ECE 568.
    
 Docker Configurations: 
 ---
